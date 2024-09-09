@@ -68,7 +68,7 @@ ellen07614@gmail.com
 |python|Python을 사용하여 데이터를 수집하고, Pandas를 활용해 데이터를 분석한 후, Matplotlib을 통해 시각화된 결과를 웹 페이지에 적용하는 프로젝트를 진행-> Python의 강력한 데이터 처리 기능을 활용하여 효율적으로 데이터 분석과 시각화를 구현.|[Github링크](https://github.com/7hannr/python)|
 |node|Node.js를 사용하여 백엔드 서버를 구축하고, API를 이용해 도서, 지역 정보, 블로그 글을 검색할 수 있는 웹사이트 구축/개발 환경과 익숙해지기 위한 목적의 프로젝트구현|[Github링크](https://github.com/7hannr/node)|
 |spring|사용자가 다양한 상품을 검색하고 구매할 수 있는 쇼핑몰 웹 애플리케이션을 개발함|[Github 링크](https://github.com/7hannr/spring)|
-|react|사용자가 도서를 쉽게 검색하고, 페이지네이션과 좋아요 및 댓글 기능을 통해 직관적이고 실시간으로 상호작용할 수 있는 사용자 친화적인 웹 애플리케이션을 구현하는 것.|테스트3|
+|react|사용자가 도서를 쉽게 검색하고, 페이지네이션과 좋아요 및 댓글 기능을 통해 직관적이고 실시간으로 상호작용할 수 있는 사용자 친화적인 웹 애플리케이션을 구현하는 것.|[Github 링크](https://github.com/7hannr/react)|
 |android|테스트2|[Github링크](https://github.com/7hannr/android/tree/master)|
 |JSP|사용자가 원하는 상품을 쉽게 검색하고 구매할 수 있는 쇼핑몰 웹사이트 구축|테스트3|
 |smartIV(스마트링거)|병원에서 환자가 링거 거치대를 끌고 다니는 불편함을 해결하고, 의료진의 업무 부담을 줄이기 위해 자동으로 환자를 추적하고 이동하는 스마트 링거 거치대를 개발하는 것.|[Github 링크](https://github.com/7hannr/Smart-IV)|
