@@ -60,3 +60,16 @@ ellen07614@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hannr&show_icons=true&locale=en&layout=compact" alt="7hannr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hannr&" alt="7hannr" /></p>
+
+
+|제목|내용|링크|
+|------|---|---|
+|Green-log(초록)|탄소중립 에너지를 활용한 환경 친화적인 중고거래 플랫폼을 구축하여, 사용자가 지속 가능하고 친환경적인 방식으로 거래할 수 있도록 지원하는 것.|테스트3|
+|python|테스트2|테스트3|
+|node|테스트2|테스트3|
+|spring|사용자가 다양한 상품을 검색하고 구매할 수 있는 쇼핑몰 웹 애플리케이션을 개발한다. Spring 프레임워크와 관련 기술을 활용하여 백엔드 로직을 처리하고, REST API를 통해 프론트엔드와 데이터를 주고받는다.|테스트3|
+|react|테스트2|테스트3|
+|android|테스트2|테스트3|
+|JSP|사용자가 원하는 상품을 쉽게 검색하고 구매할 수 있는 쇼핑몰 웹사이트 구축|테스트3|
+|smartIV(스마트링거)|병원에서 환자가 링거 거치대를 끌고 다니는 불편함을 해결하고, 의료진의 업무 부담을 줄이기 위해 자동으로 환자를 추적하고 이동하는 스마트 링거 거치대를 개발하는 것.|테스트3|
+
