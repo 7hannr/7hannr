@@ -69,7 +69,7 @@ ellen07614@gmail.com
 |node|Node.js를 사용하여 백엔드 서버를 구축하고, API를 이용해 도서, 지역 정보, 블로그 글을 검색할 수 있는 웹사이트 구축/개발 환경과 익숙해지기 위한 목적의 프로젝트구현|[Github링크](https://github.com/7hannr/node)|
 |spring|사용자가 다양한 상품을 검색하고 구매할 수 있는 쇼핑몰 웹 애플리케이션을 개발함|[Github 링크](https://github.com/7hannr/spring)|
 |react|사용자가 도서를 쉽게 검색하고, 페이지네이션과 좋아요 및 댓글 기능을 통해 직관적이고 실시간으로 상호작용할 수 있는 사용자 친화적인 웹 애플리케이션을 구현하는 것.|[Github 링크](https://github.com/7hannr/react)|
-|android|테스트2|[Github링크](https://github.com/7hannr/android/tree/master)|
+|android|Kakao API와 JSOUP 라이브러리를 사용하여 웹 데이터를 스크래핑하고, 네이버 쇼핑 또는 CGV API와 연동하여 사용자에게 실시간 정보를 제공하는 앱구현,Firebase의 Authentication, Firestore Database, 그리고 Storage 기능을 활용하여 사용자 인증, 데이터 저장, 이미지 업로드 등의 기능을 구현.|[Github링크](https://github.com/7hannr/android/tree/master)|
 |JSP|사용자가 원하는 상품을 쉽게 검색하고 구매할 수 있는 쇼핑몰 웹사이트 구축|[Github 링크](https://github.com/7hannr/jsp)|
 |smartIV(스마트링거)|병원에서 환자가 링거 거치대를 끌고 다니는 불편함을 해결하고, 의료진의 업무 부담을 줄이기 위해 자동으로 환자를 추적하고 이동하는 스마트 링거 거치대를 개발하는 것.|[Github 링크](https://github.com/7hannr/Smart-IV)|
 
