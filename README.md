@@ -58,6 +58,8 @@ ellen07614@gmail.com
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
+
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hannr&show_icons=true&locale=en&layout=compact" alt="7hannr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hannr&" alt="7hannr" /></p>
 
