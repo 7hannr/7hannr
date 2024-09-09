@@ -7,7 +7,7 @@
 ellen07614@gmail.com
 </p>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 
 <h3>프론트엔드 (Frontend)</h3>
 <div style="text-align: center;">
@@ -63,6 +63,7 @@ ellen07614@gmail.com
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hannr&show_icons=true&locale=en&layout=compact" alt="7hannr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hannr&" alt="7hannr" /></p>
 
+<h2 align="center">✨ Project ✨</h2>
 
 |제목|내용|링크|
 |------|---|---|
