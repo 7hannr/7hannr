@@ -9,6 +9,17 @@ ellen07614@gmail.com
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
+<h3>프론트엔드 (Frontend)</h3>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
 <h3>백엔드 (Backend)</h3>
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" style="display: inline-block; margin-right: 10px;">
