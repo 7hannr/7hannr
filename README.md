@@ -44,7 +44,4 @@ ellen07614@gmail.com
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7hannr&show_icons=true&locale=en&layout=compact" alt="7hannr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7hannr&show_icons=true&locale=en" alt="7hannr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7hannr&" alt="7hannr" /></p>
