@@ -67,7 +67,7 @@ ellen07614@gmail.com
 |Green-log(초록)|탄소중립 에너지를 활용한 환경 친화적인 중고거래 플랫폼을 구축하여, 사용자가 지속 가능하고 친환경적인 방식으로 거래할 수 있도록 지원하는 것.|[Github 링크](https://github.com/7hannr/green-log)|
 |python|Python을 사용하여 데이터를 수집하고, Pandas를 활용해 데이터를 분석한 후, Matplotlib을 통해 시각화된 결과를 웹 페이지에 적용하는 프로젝트를 진행-> Python의 강력한 데이터 처리 기능을 활용하여 효율적으로 데이터 분석과 시각화를 구현.|[Github링크](https://github.com/7hannr/python)|
 |node|Node.js를 사용하여 백엔드 서버를 구축하고, API를 이용해 도서, 지역 정보, 블로그 글을 검색할 수 있는 웹사이트 구축/개발 환경과 익숙해지기 위한 목적의 프로젝트구현|[Github링크](https://github.com/7hannr/node)|
-|spring|사용자가 다양한 상품을 검색하고 구매할 수 있는 쇼핑몰 웹 애플리케이션을 개발함|테스트3|
+|spring|사용자가 다양한 상품을 검색하고 구매할 수 있는 쇼핑몰 웹 애플리케이션을 개발함|[Github 링크](https://github.com/7hannr/spring)|
 |react|테스트2|테스트3|
 |android|테스트2|테스트3|
 |JSP|사용자가 원하는 상품을 쉽게 검색하고 구매할 수 있는 쇼핑몰 웹사이트 구축|테스트3|
